@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm Vishal Kumar a B.Tech Graduate in Computer Science
-Software Developer || GenAI || PowerBI ||
+I'm Vishal Kumar a B.Tech Graduate in Computer Science.
+🌱 A Enthusiast Software Developer || GenAI || PowerBI ||
 <!--
 **Git-Vishal00/Git-Vishal00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
